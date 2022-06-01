@@ -1,6 +1,6 @@
 # Lancet
 
-<a href="ZhuBry.github.io/LancetDocumentationExample/indel_20220528.performance-plots.pdf" target="_blank">Indel benchmark</a>
+<a href="https://zhubry.github.io/LancetDocumentationExample/indel_20220528.performance-plots.pdf" target="_blank">Indel benchmark</a>
 
 Reliable detection of somatic variations is of critical importance in cancer research. Here we present Lancet, an accurate and sensitive somatic variant caller, which detects SNVs and indels by jointly analyzing reads from tumor and matched normal samples using colored de Bruijn graphs. 
 
