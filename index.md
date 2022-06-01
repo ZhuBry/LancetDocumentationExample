@@ -14,7 +14,8 @@ Reliable detection of somatic variations is of critical importance in cancer res
 ## Testing
 *How to run tests?*
 ## Benchmarking
-*How to benchmark. Brief explanation/reference to the explaining how the benchmark is based*
+*How to benchmark. Brief explanation/reference to how the benchmark is determined*
+
 [Benchmarking Repo](https://github.com/nygenome/benchmark/tree/master/virtual_tumor/evaluation)
 
 <a href="https://zhubry.github.io/LancetDocumentationExample/indel_20220528.performance-plots.pdf" target="_blank">Indel benchmark</a>
@@ -24,12 +25,14 @@ Reliable detection of somatic variations is of critical importance in cancer res
 *Discuss scripts that make it easier to utilize Lancet*
 # Specs/Reference
 ## Memory Utilization
-*How memory utilization changes depending on chromosome*
+*How memory is utilized in Lancet*
+
 <a href="https://zhubry.github.io/LancetDocumentationExample/Memory_Utilized_vs_Length_SNV.pdf" target="_blank">SNV memory</a>
 
 <a href="https://zhubry.github.io/LancetDocumentationExample/Memory_Utilized_vs_Length_indel.pdf" target="_blank">Indel memory</a>
 ## Threads/Cores and Runtime
 *How do the core hours change*
+
 <a href="https://zhubry.github.io/LancetDocumentationExample/Core_Hours_vs_Length_SNV.pdf" target="_blank">SNV runtime (16 threads)</a>
 
 <a href="https://zhubry.github.io/LancetDocumentationExample/Core_Hours_vs_Length_indel.pdf" target="_blank">Indel runtime (16 threads)</a>
