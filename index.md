@@ -19,7 +19,13 @@ Reliable detection of somatic variations is of critical importance in cancer res
 ## Scripts
 # Specs/Reference
 ## Memory Utilization
+<a href="https://zhubry.github.io/LancetDocumentationExample/Memory_Utilized_vs_Length_SNV.pdf" target="_blank">SNV memory</a>
+
+<a href="https://zhubry.github.io/LancetDocumentationExample/Memory_Utilized_vs_Length_indel.pdf" target="_blank">Indel memory</a>
 ## Threads/Cores and Runtime
+<a href="https://zhubry.github.io/LancetDocumentationExample/Core_Hours_vs_Length_SNV.pdf" target="_blank">SNV runtime</a>
+
+<a href="https://zhubry.github.io/LancetDocumentationExample/Core_Hours_vs_Length_indel.pdf" target="_blank">Indel runtime</a>
 ## Standards/references/docs
 # Explanation
 ## This is Lancet
