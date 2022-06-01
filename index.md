@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Lancet
 
-You can use the [editor on GitHub](https://github.com/ZhuBry/LancetDocumentationExample/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reliable detection of somatic variations is of critical importance in cancer research. Here we present Lancet, an accurate and sensitive somatic variant caller, which detects SNVs and indels by jointly analyzing reads from tumor and matched normal samples using colored de Bruijn graphs. 
 
 ### Markdown
 
